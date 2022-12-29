@@ -11,8 +11,16 @@ This is Guille (g EE y eh)
   <p align="left">
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
       <img
-        src="https://www.svgrepo.com/show/353935/jira.svg"
+        src="https://img.icons8.com/color/512/jira.png"
         alt="jira-software"
+        width="30"
+      />
+    </a>
+    &nbsp;
+    <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.icons8.com/fluency/512/confluence.png"
+        alt="jira-confluence"
         width="30"
       />
     </a>
