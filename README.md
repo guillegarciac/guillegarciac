@@ -81,6 +81,14 @@ Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full St
       />
     </a>
     &nbsp;
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.svgrepo.com/show/354202/postman-icon.svg"
+        alt="postman"
+        width="32"
+      />
+    </a>
+    &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
