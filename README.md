@@ -22,7 +22,7 @@ Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full St
     />
   &nbsp;
 
-    📫 You can also send me an email to <i>ggarciacardiel@gmail.com</i>
+    📫 You can also send me an email to ggarciacardiel@gmail.com
 
 
 ## Languages and Tools
