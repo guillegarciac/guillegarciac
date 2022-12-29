@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![github](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)][1]
+
 html5   css3   javascript typescript   react   nodejs   mongodb     git    visualStudioCode   figma
