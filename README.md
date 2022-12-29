@@ -1,14 +1,19 @@
 ### Hi there 👋
 
-This is Guille (g EE y eh) - Barcelona, Catalonia, Spain
-Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Development Student
+This is Guille (g EE y eh)  
+📍 Barcelona, Catalonia, Spain
+
+``Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Development Student``
 
 ### About me 🎯
 
-- 🔭 I’m currently working as Director of Product <a href="https://reviewpro.shijigroup.com">@ReviewPro</a>, the leading provider of Guest Intelligence solutions for the hospitality industry. I am responsible for the entire spectrum of product planning and execution; from definition, design, and development, to delivery of finished product to production. 
+- 🔭 I work as Director of Product <a href="https://reviewpro.shijigroup.com">@ReviewPro</a>, the leading provider of Guest Intelligence solutions for the hospitality industry. I am responsible for the entire spectrum of product planning and execution; from definition, design, and development, to delivery of finished product to production. 
+
 - 🌱 Prior to ReviewPro, I’ve worked in several areas of global hospitality. Today, I use this breadth of experience, insight and professional knowledge to be an established thought-leader in SaaS development and operations within the tech-hospitality industry.
+
 - 💬 I am a seasoned speaker on hospitality tech and guest experience management, and give regular training sessions and lectures in the field.
-- I am currently studying Web Development <a href="https://www.ironhack.com/en">@Ironhack</a> learning how to build apps with HTML, CSS, JavaScript, and React.
+
+- 👨🏻‍💻 I am currently studying Web Development <a href="https://www.ironhack.com/en">@Ironhack</a> learning how to build apps with HTML, CSS, JavaScript, and React.
 
 ## Contact
 
