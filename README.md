@@ -22,7 +22,7 @@ Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full St
     />
   &nbsp;
 
-    📫 You can also send me an email to <i>ggarciacardiel@gmail.com</i>, LinkedIn <a href="">Guille García</a>.
+    📫 You can also send me an email to <i>ggarciacardiel@gmail.com</i>
 
 
 ## Languages and Tools
