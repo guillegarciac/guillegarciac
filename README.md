@@ -124,6 +124,24 @@ This is Guille (g EE y eh)
         width="30"
       />
     </a>
+         &nbsp;
+    <a href="https://www.mailchimp.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-mailchimp-is-a-marketing-automation-platform-and-an-email-marketing-service-logo-shadow-tal-revivo.png"
+        alt="mailchimp"
+        width="30"
+      />
+    </a>
+     &nbsp;
+    <a href="https://www.miro.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.freelogovectors.net/wp-content/uploads/2021/12/mirologo-freelogovectors.net_.png"
+        alt="miro"
+        width="30"
+      />
+    </a>
+    
+    
   </p>
 </div>
 
