@@ -75,13 +75,12 @@ Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full St
     &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img
-        src="https://icons8.com/icon/kg46nzoJrmTR/express-js"
+        src="https://img.icons8.com/officexs/512/express-js.png"
         alt="expressjs"
         width="30"
       />
     </a>
     &nbsp;
-    
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
         src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
