@@ -29,7 +29,11 @@ This is Guille (g EE y eh)
 
 📫 You can also send me an email to ggarciacardiel@gmail.com
 
+## Articles & Projects
 
+<a href="https://insights.shijigroup.com/how-integrations-supercharge-hotel-software-solutions/">How integrations supercharge hotel software solutions</a>
+    
+    
 ## Languages and Tools
 
 <div>
