@@ -90,6 +90,14 @@ This is Guille (g EE y eh)
       />
     </a>
     &nbsp;
+       <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.icons8.com/office/512/handlebar-mustache.png"
+        alt="handlebars-hbs"
+        width="30"
+      />
+    </a>
+    &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
         src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
@@ -132,7 +140,7 @@ This is Guille (g EE y eh)
      &nbsp;
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://www.svgrepo.com/show/354428/tableau-icon.svg"
+        src="https://img.icons8.com/color/512/tableau-software.png"
         alt="tableau"
         width="30"
       />
