@@ -29,6 +29,14 @@ Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full St
 
 <div>
   <p align="left">
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.svgrepo.com/show/353935/jira.svg"
+        alt="jira-software"
+        width="30"
+      />
+    </a>
+    &nbsp;
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
