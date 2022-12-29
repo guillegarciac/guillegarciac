@@ -1,25 +1,28 @@
 ### Hi there 👋
 
-Guille García — Director of Product (g EE y eh)
-<a href="https://reviewpro.shijigroup.com">@ReviewPro</a> Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Development Student
-Barcelona, Catalonia, Spain
+This is Guille (g EE y eh) - Barcelona, Catalonia, Spain
+Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Development Student
 
+### About me 👋
 
-- 🔭 I’m currently working as Director of Product at ReviewPro, the leading provider of Guest Intelligence solutions for the hospitality industry. I am responsible for the entire spectrum of product planning and execution; from definition, design, and development, to delivery of finished product to production. 
+- 🔭 I’m currently working as Director of Product <a href="https://reviewpro.shijigroup.com">@ReviewPro</a>, the leading provider of Guest Intelligence solutions for the hospitality industry. I am responsible for the entire spectrum of product planning and execution; from definition, design, and development, to delivery of finished product to production. 
 - 🌱 Prior to ReviewPro, I’ve worked in several areas of global hospitality. Today, I use this breadth of experience, insight and professional knowledge to be an established thought-leader in SaaS development and operations within the tech-hospitality industry.
 - 💬 I am a seasoned speaker on hospitality tech and guest experience management, and give regular training sessions and lectures in the field.
+- I am currently studying Web Development <a href="https://www.ironhack.com/en">@Ironhack</a> learning how to build apps with HTML, CSS, JavaScript, and React.
 
-## Contact Me
+## Contact
+
 <p align="center">
-  <a href="https://linkedin.com/in/gmartinportela" target="blank"
+  <a href="https://www.linkedin.com/in/guilletheproductmanager" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="guillermomartinportela"
+      alt="guilletheproductmanager"
       width="24"
     />
   &nbsp;
-- 📫 You can find me via <i>ggarciacardiel@gmail.com</i>, LinkedIn <a href="https://www.linkedin.com/in/guilletheproductmanager">Guille García</a>.
+
+    📫 You can also send me an email to <i>ggarciacardiel@gmail.com</i>, LinkedIn <a href="">Guille García</a>.
 
 
 ## Languages and Tools
@@ -52,14 +55,6 @@ Barcelona, Catalonia, Spain
         alt="javascript"
         width="30"
       />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/typescript"
-      target="_blank"
-      rel="noreferrer"
-    >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
-        width="30"/>
     </a>
     &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
