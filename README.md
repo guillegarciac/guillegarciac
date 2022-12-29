@@ -112,6 +112,14 @@ Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full St
         width="30"
       />
     </a>
+     &nbsp;
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.svgrepo.com/show/354428/tableau-icon.svg"
+        alt="tableau"
+        width="30"
+      />
+    </a>
   </p>
 </div>
 
