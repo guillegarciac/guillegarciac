@@ -1,19 +1,26 @@
 ### Hi there 👋
 
-<!--
-**guillegarciac/guillegarciac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Guille García — Director of Product (g EE y eh)
+<a href="https://reviewpro.shijigroup.com">@ReviewPro</a> Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Development Student
+Barcelona, Catalonia, Spain
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Director of Product at ReviewPro, the leading provider of Guest Intelligence solutions for the hospitality industry. I am responsible for the entire spectrum of product planning and execution; from definition, design, and development, to delivery of finished product to production. 
+- 🌱 Prior to ReviewPro, I’ve worked in several areas of global hospitality. Today, I use this breadth of experience, insight and professional knowledge to be an established thought-leader in SaaS development and operations within the tech-hospitality industry.
+- 💬 I am a seasoned speaker on hospitality tech and guest experience management, and give regular training sessions and lectures in the field.
+
+## Contact Me
+<p align="center">
+  <a href="https://linkedin.com/in/gmartinportela" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="guillermomartinportela"
+      width="24"
+    />
+  &nbsp;
+- 📫 You can find me via <i>ggarciacardiel@gmail.com</i>, LinkedIn <a href="https://www.linkedin.com/in/guilletheproductmanager">Guille García</a>.
+
 
 ## Languages and Tools
 
@@ -63,14 +70,6 @@ Here are some ideas to get you started:
       />
     </a>
     &nbsp;
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
-        alt="vuejs"
-        width="30"
-      />
-    </a>
-    &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"
@@ -96,14 +95,6 @@ Here are some ideas to get you started:
       />
     </a>
     &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
-        alt="TailwindCSS"
-        width="40"
-      />
-    </a>
-    &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img
         src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
@@ -121,3 +112,4 @@ Here are some ideas to get you started:
     </a>
   </p>
 </div>
+
