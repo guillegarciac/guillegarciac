@@ -53,6 +53,14 @@ This is Guille (g EE y eh)
       />
     </a>
     &nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"
+        alt="react"
+        width="30"
+      />
+    </a>
+    &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"
