@@ -182,4 +182,4 @@ This is Guille (g EE y eh)
 <a href="https://insights.shijigroup.com/how-integrations-supercharge-hotel-software-solutions/">How integrations supercharge hotel software solutions</a><br>
 <a href="https://devault-app.fly.dev/">deVault-app</a>
     
-<a href="https://app.daily.dev/guillegarciac"><img src="https://api.daily.dev/devcards/9953b6047bdd413093d96df216a6a7e7.png?r=6gn" width="200" alt="guillegarciac's Dev Card"/></a>
+
