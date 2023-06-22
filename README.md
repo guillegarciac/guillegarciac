@@ -161,7 +161,7 @@ This is Guille (g EE y eh)
 
 - 💬 I am a seasoned speaker on hospitality tech and guest experience management, and give regular training sessions and lectures in the field.
 
-- 👨🏻‍💻 I am currently studying Web Development <a href="https://www.ironhack.com/en">@Ironhack</a> learning how to build apps with HTML, CSS, JavaScript, and React.
+- 👨🏻‍💻 Full Stack MERN developer graduated <a href="https://www.ironhack.com/en">@Ironhack</a>.
 
 ## Contact
 
