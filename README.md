@@ -180,6 +180,7 @@ This is Guille (g EE y eh)
 ## Articles & Projects
 
 <a href="https://insights.shijigroup.com/how-integrations-supercharge-hotel-software-solutions/">How integrations supercharge hotel software solutions</a><br>
+<a href="https://atmine-app.netlify.app/">atmine-app (mobile_only)</a>
 <a href="https://devault-app.fly.dev/">deVault-app</a>
     
 
