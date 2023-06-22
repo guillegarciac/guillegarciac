@@ -3,7 +3,7 @@
 This is Guille (g EE y eh)  
 📍 Barcelona, Catalonia, Spain
 
-``Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Development Student``
+``Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Developer``
 
 ## Languages and Tools
 
