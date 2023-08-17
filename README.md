@@ -61,6 +61,14 @@ This is Guille (g EE y eh)
       />
     </a>
     &nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"
+        alt="nextjs"
+        width="30"
+      />
+    </a>
+    &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"
