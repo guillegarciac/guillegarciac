@@ -52,6 +52,18 @@ This is Guille (g EE y eh)
         width="30"
       />
     </a>
+        &nbsp;
+    <a
+      href="https://www.w3schools.com/typescript/index.php"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+        alt="typescript"
+        width="30"
+      />
+    </a>
     &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
